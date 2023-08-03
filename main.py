@@ -48,7 +48,6 @@ Normal
 Weight is in kg, height is in meters.
 Note, that height is a float.'''
 
-
 #day 2
 # names_of_students = ['kofi','Eric', 'Mensah', 'Yeboah', 'HeroBah']
 # add_student = names_of_students.append('MK')

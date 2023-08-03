@@ -1,0 +1,11 @@
+user_input = int(input(" Enter number "))
+
+for x in range (user_input +1):
+    current_number = x
+    print("Current number ", current_number)
+    if x == 0:
+        print("Previous Number : None" )
+        x = 1
+    else:
+        print("Previous Number: ", x - 1)
+        print("sum: ", current_number + (x - 1))
