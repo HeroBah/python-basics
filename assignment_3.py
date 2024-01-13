@@ -17,5 +17,6 @@ elif marks >= 40 and marks <60:
     print("Grade D")
 elif marks >= 0 and marks <40:
     print("Grade F")
+    print("INVALID")
 else:
     print('INVALID INPUT')

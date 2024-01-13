@@ -4,6 +4,6 @@ for X in range((userinput)):
     usernumber = int(input("enter the number "))
     total += usernumber
     avg = total/userinput
-    print(total)
+    # print(total)
 print(avg)
                
